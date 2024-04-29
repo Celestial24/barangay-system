@@ -1,0 +1,34 @@
+ .header .title{
+    display: flex;
+    justify-content: center;
+    padding-left: 20px;
+ 
+ }
+
+
+ .list2 {
+
+  padding: 0;
+      position: relative;
+     left: 220%;
+      text-decoration: none;
+}
+
+ .list2 .list1 {
+  display: inline-block;
+  margin-left: 19px;
+  text-decoration: none;
+
+}
+ 
+.nav-header{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+.nav-header:hover{
+    font-weight: 500px;
+    color: blue;
+    text-decoration: underline;
+}

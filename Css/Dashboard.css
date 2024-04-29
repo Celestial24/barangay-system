@@ -1,0 +1,216 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.title h1{
+    display: grid;
+    place-items: center ;
+    height: 30vh;
+    text-transform: uppercase;
+}
+
+.title p {
+    position: absolute;
+    left: 44%;
+    top: 140px;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+/* Content- card */
+
+.Content-card{
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            background-color: skyblue;
+            border: 1px solid black;
+            width: 200px;
+            border-radius: 5px;
+}
+
+
+
+
+.card1 img {
+    margin-top: 12px;
+    border-radius: 5px;
+    border: 1px solid black;
+    height: 120px;
+}
+
+.card1 p {
+    font-weight: 500;
+}
+
+.card1 h1 {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+
+/* Content- card2*/
+
+.Content-card1{
+            position: absolute;
+            top: 40%;
+            left: 31%;
+            transform: translate(-20%, -50%);
+            text-align: center;
+            background-color: skyblue;
+            border: 1px solid black;
+            width: 200px;
+            border-radius: 5px;
+}
+
+
+.card2 img {
+    margin-top: 12px;
+    border-radius: 5px;
+    border: 1px solid black;
+    height: 120px;
+}
+
+.card2 p {
+    font-weight: 500;
+}
+
+.card2 h1 {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+
+/* Content- card3*/
+
+.Content-card2{
+            position: absolute;
+            top: 41%;
+            left: 65%;
+            transform: translate(-50%, -55%);
+            text-align: center;
+            background-color: skyblue;
+            border: 1px solid black;
+            width: 200px;
+            border-radius: 5px;
+}
+
+
+.card3 img {
+    margin-top: 12px;
+    border-radius: 5px;
+    border: 1px solid black;
+    height: 120px;
+}
+
+.card3 p {
+    font-weight: 500;
+}
+
+.card3 h1 {
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+
+
+.Content-card3{
+            position: absolute;
+            top: 80%;
+            left: 12%;
+            transform: translate(-22%, -55%);
+            text-align: center;
+            z-index:0;
+            background-color: skyblue;
+            border: 1px solid black;
+            width: 200px;
+            border-radius: 5px;
+        
+}
+
+
+.title2 h1{
+            position: absolute;
+            top: 60%;
+            left: 45%;
+            transform: translate(-19%, -32%);
+            text-align: center;
+            text-transform: uppercase;
+}
+
+.Content-card4{
+            position: absolute;
+            top: 80%;
+            left: 26%;
+            transform: translate(-22%, -55%);
+            text-align: center;
+            background-color: skyblue;
+            border: 1px solid black;
+            width: 200px;
+            border-radius: 5px;
+}
+
+
+.Content-card5{
+            position: absolute;
+            top: 80%;
+            left: 40%;
+            transform: translate(-22%, -55%);
+            text-align: center;
+            background-color: skyblue;
+            border: 1px solid black;
+            width: 200px;
+            border-radius: 5px;
+}
+
+
+.Content-card6{
+            position: absolute;
+            top: 80%;
+            left: 54%;
+            transform: translate(-22%, -55%);
+            text-align: center;
+            background-color: skyblue;
+            border: 1px solid black;
+            width: 200px;
+            border-radius: 5px;
+}
+
+
+
+.Content-card7{
+            position: absolute;
+            top: 80%;
+            left: 68%;
+            transform: translate(-22%, -55%);
+            text-align: center;
+            background-color: skyblue;
+            border: 1px solid black;
+            width: 200px;
+            border-radius: 5px;
+}
+
+
+.Content-card8{
+            position: absolute;
+            top: 80%;
+            left: 82%;
+            transform: translate(-22%, -55%);
+            text-align: center;
+            background-color: skyblue;
+            border: 1px solid black;
+            width: 200px;
+            border-radius: 5px;
+}
