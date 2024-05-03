@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="../Css/sidebar.css">
     <link rel="stylesheet" href="../Css/Dashboard.css">
     <link rel="stylesheet" href="../Css/Services.css">
+
 </head>
 
 <body>
@@ -34,6 +35,15 @@
         include('../Project/Container.php');
         ?>
     </div>
+
+
+
+
+    <footer>
+        <?php
+        include('../Project/footer.php');
+        ?>
+    </footer>
 
 
     <script>

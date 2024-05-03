@@ -25,6 +25,6 @@
         <p class="paragraph-content">view the requiments needed for business permit
             and acquire online now.
         </p>
-        <a class="btn-content" href="../view/view.php">Proceed</a>
+        <a class="btn-content" href="../view/view3.php">Proceed</a>
     </div>
 </div>

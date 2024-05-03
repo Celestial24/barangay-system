@@ -1,0 +1,17 @@
+
+
+
+.content-footer{
+    flex: 1;
+    padding: 44px 20px;
+    position: relative;
+    top: 300px;
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+
+
